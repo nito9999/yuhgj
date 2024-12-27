@@ -24,7 +24,7 @@
   "Notifications": "https://localhost:44305/",
   "PlayerSettings": "https://localhost:44302/",
   "RoomComments": "https://localhost:44302/",
-  "Rooms": "http://localhost:20218/",
+  "Rooms": "https://localhost:44308/",
   "Storage": "https://localhost:44302/",
   "Strings": "https://localhost:44302/",
   "StringsCDN": "https://localhost:44302/",
