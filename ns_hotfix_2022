@@ -15,7 +15,7 @@
   "Econ": "https://localhost:44302/",
   "GameLogs": "https://localhost:44302/",
   "Geo": "https://localhost:44302/",
-  "Images": "http://localhost:69/",
+  "Images": "http://localhost:44307/",
   "Leaderboard": "https://localhost:44302/",
   "Link": "https://localhost:44302/",
   "Lists": "https://localhost:44302/",
