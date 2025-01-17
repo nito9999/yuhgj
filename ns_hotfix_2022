@@ -3,7 +3,7 @@
     "Accounts": "https://127.0.0.1:5000/api/accounts/v1/",
     "Auth": "https://127.0.0.1:5000/api/auth/v1/",
     "BugReporting": "https://127.0.0.1:5000/api/bugreporting/v1/",
-    "CDN": "https://127.0.0.1:5000/api/cdn/v1/",
+    "CDN": "https://localhost:44304/",
     "Chat": "https://127.0.0.1:5000/api/chat/v1/",
     "Clubs": "https://127.0.0.1:5000/api/clubs/v1/",
     "Commerce": "https://127.0.0.1:5000/api/commerce/v1/",
