@@ -9,7 +9,7 @@
     "Commerce": "https://127.0.0.1:5000/api/commerce/v1/",
     "DataCollection": "https://127.0.0.1:5000/api/datacollection/v1/",
     "Discovery": "https://127.0.0.1:5000/api/discovery/v1/",
-    "Econ": "https://127.0.0.1:5000",
+    "Econ": "https://127.0.0.1:5000/api/econ/v1/",
     "GameLogs": "https://127.0.0.1:5000/api/gamelogs/v1/",
     "Images": "https://127.0.0.1:5000/api/images/v1/",
     "Leaderboard": "https://127.0.0.1:5000/api/leaderboard/v1/",
