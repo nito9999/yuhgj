@@ -14,7 +14,7 @@
     "Images": "https://127.0.0.1:5000/api/images/v1/",
     "Leaderboard": "https://127.0.0.1:5000/api/leaderboard/v1/",
     "Link": "https://127.0.0.1:5000/api/link/v1/",
-    "Matchmaking": "https://127.0.0.1:5002/api/matchmaking/v1/",
+    "Matchmaking": "https://127.0.0.1:5002",
     "Moderation": "https://127.0.0.1:5000/api/moderation/v1/",
     "Notifications": "https://127.0.0.1:5000/api/notify/v1/",
     "PlatformNotifications": "https://127.0.0.1:5000/api/platformnotifications/v1/",
